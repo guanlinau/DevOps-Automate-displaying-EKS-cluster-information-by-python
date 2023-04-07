@@ -38,7 +38,7 @@ terraform destroy
 pip freeze > requirements.txt
 ```
 
-###### install boto3
+###### install boto3 and schedule
 ```
 pip install -r requirements.txt
 ```
