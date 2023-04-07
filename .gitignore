@@ -1,0 +1,15 @@
+.DS_Store
+
+DevOps-Terraform-AWS-EKS/.terraform/*
+
+DevOps-Terraform-AWS-EKS/*.tfstate
+DevOps-Terraform-AWS-EKS/*.tfstate.*
+DevOps-Terraform-AWS-EKS/*.tfvars
+
+DevOps-Terraform-AWS-EKS/.terraformrc
+DevOps-Terraform-AWS-EKS/terraform.rc
+
+
+
+DevOps-Terraform-AWS-EKS/crash.log
+
